@@ -1,0 +1,4 @@
+Uncaught java.lang.Error exception in thread "main" in a method xmlPo.ExampleUnMarshall.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+	at xmlPo.ExampleUnMarshall.main(ExampleUnMarshall.java:16) [file:/home/users/inf/wiaw2/iaw47647361/Documents/xmlPo/bin/xmlPo/ExampleUnMarshall.class]

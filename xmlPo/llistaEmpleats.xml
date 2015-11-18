@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Company_Staff>
+    <Pencaire>
+        <id>133</id>
+        <sexe>home</sexe>
+        <nom>Xavi</nom>
+        <carrec>Big Boss</carrec>
+        <edat>40</edat>
+        <password>12345</password>
+    </Pencaire>
+    <Pencaire>
+        <id>133</id>
+        <sexe>home</sexe>
+        <nom>jordi</nom>
+        <carrec>Big Boss</carrec>
+        <edat>40</edat>
+        <password>12345</password>
+    </Pencaire>
+    <Pencaire>
+        <id>133</id>
+        <sexe>home</sexe>
+        <nom>ramon</nom>
+        <carrec>Big Boss</carrec>
+        <edat>40</edat>
+        <password>12345</password>
+    </Pencaire>
+</Company_Staff>
